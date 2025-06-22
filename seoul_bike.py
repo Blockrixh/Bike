@@ -4,7 +4,7 @@ import time
 from datetime import datetime, timedelta
 
 # 🔐 개인 API 키
-API_KEY = '4749484f48646c77353461546d4842'
+API_KEY = 'API 입력'
 ENDPOINT = 'http://openapi.seoul.go.kr:8088'
 DATA_TYPE = 'json'
 SERVICE_NAME = 'tbCycleRentData'
